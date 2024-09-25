@@ -1,4 +1,4 @@
-# ToDo Application
+# Simple Todo App
 
 ## Setup Your Environment
 

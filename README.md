@@ -1,4 +1,4 @@
-# Simple Todo App
+# Task Tracker
 
 ## Setup Your Environment
 
